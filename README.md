@@ -1,3 +1,7 @@
+## Status badge
+
+[![workflow-ci](https://github.com/lurc-zmei/hexlet-ci-app/actions/workflows/workflow-ci.yml/badge.svg)](https://github.com/lurc-zmei/hexlet-ci-app/actions/workflows/workflow-ci.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
